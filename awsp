@@ -1,0 +1,5 @@
+#! /bin/bash
+
+./awsp.rb
+value=`cat /tmp/aws-profile`
+export AWS_PROFILE=$value
