@@ -2,4 +2,4 @@
 
 alias awsprof="source /#{path}/awsp"
 
-bundle install for tty-promp and inifile
+bundle install for tty-prompt and inifile
